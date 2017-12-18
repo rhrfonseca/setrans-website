@@ -854,3 +854,9 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+
+/* custom CSS*/
+
+img#logo {
+	max-width: 80vw;
+}
